@@ -20,7 +20,8 @@
 
 ---
 <p align="center">
-  <strong>Just a random teenager, if you want to contact me.
+  <strong>Just a random teenager,
+    Contact more information:
 </strong>
 </p>
 
