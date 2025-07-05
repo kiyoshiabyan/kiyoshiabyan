@@ -2,7 +2,7 @@
   <strong>بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ</strong>
 </p>
 <div align="center">
-  <img src="matrix-code-animation-gif-free-animated-background.gif" alt="Device" width="500" />
+  <img src="https://github.com/kiyoshiabyan/Lobby-Page/blob/main/matrix-code-animation-gif-free-animated-background.gif" alt="Device" width="500" />
 </div>
 
 
