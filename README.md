@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <strong>بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ</strong>
+</p>
 
-<!--
-**kiyoshiabyan/kiyoshiabyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong>اسمي محمد كيوشي أبيان، من بيكاسي</strong>
+</p>
+
+<p align="center">
+<br/> الفصل الثالث (ب) المتوسط
+  <br/> الغرفة السادس
+<br/> «خير الناس أنفعهم للناس»
+</p>
+<br/>
+<div align="center">
+  <img src="https://github.com/kiyoshiabyan/Lobby-Page/blob/main/https___github_com_kiyoshiabyan_20250705_080258_0001.gif" alt="Device" width="500" />
+</div>
+
+---
+
+Just a random teenager, if you want to contact me, https://wa.me/qr/T7W3J4NQ5RCQH1
+
+  
