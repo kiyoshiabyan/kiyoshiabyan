@@ -26,8 +26,10 @@
 
 <p align="center">
 <br/> https://wa.me/qr/T7W3J4NQ5RCQH1
-<a href="mailto:kiyoshiabyan11@smail.syathiby.id">Kirim Email</a>
-<a href="mailto:kiyoshiabyan11@gmail.com">Kirim Email</a>
+
+
+<a href="mailto:kiyoshiabyan11@smail.syathiby.id">Kirim Email dengan SyathibyMail</a>
+<a href="mailto:kiyoshiabyan11@gmail.com">Kirim Email demgan Gmail</a>
 
 
   
