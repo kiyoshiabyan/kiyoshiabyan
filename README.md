@@ -26,5 +26,8 @@
 
 <p align="center">
 <br/> https://wa.me/qr/T7W3J4NQ5RCQH1
-<br/> kiyoshiabyan11@smail.syathiby.id & kiyoshiabyan11@gmail.com
+<a href="mailto:kiyoshiabyan11@smail.syathiby.id">Kirim Email</a>
+<a href="mailto:kiyoshiabyan11@gmail.com">Kirim Email</a>
+
+
   
