@@ -23,4 +23,8 @@
   <strong>Just a random teenager, if you want to contact me.
 </strong>
 </p>
+
+<p align="center">
+<br/> https://wa.me/qr/T7W3J4NQ5RCQH1
+<br/> kiyoshiabyan11@smail.syathiby.id & kiyoshiabyan11@gmail.com
   
