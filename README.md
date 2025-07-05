@@ -24,13 +24,12 @@
     Contact more information:
 </strong>
 </p>
-
 <p align="center">
 <br/> https://wa.me/qr/T7W3J4NQ5RCQH1
 
 <p align="center">
-<a href="mailto:kiyoshiabyan11@smail.syathiby.id">Kirim Email dengan SyathibyMail</a>
-<a href="mailto:kiyoshiabyan11@gmail.com">Kirim Email dengan Gmail</a>
+<a href="mailto:kiyoshiabyan11@smail.syathiby.id">Kirim Email (SyathibyMail)</a>
+<a href="mailto:kiyoshiabyan11@gmail.com">Kirim Email (Gmail)</a>
 
 
   
