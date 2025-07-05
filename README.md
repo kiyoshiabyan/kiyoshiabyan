@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ</strong>
+  <strong>بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ</strong>
 </p>
 
 ---
@@ -16,12 +16,15 @@
 <br/> الفصل الثالث (ب) المتوسط
   <br/> الغرفة السادس
 <br/> «خير الناس أنفعهم للناس»
+
+<p align="center">  
+  <br/> <strong>"Don't feel lonely, because Allah always with you" 💙<strong>
 </p>
 <br/>
 
 ---
 <div align="center">
-  <img src="https://github.com/kiyoshiabyan/Lobby-Page/blob/main/https___github_com_kiyoshiabyan_20250705_135721_0002.gif" alt="Device" width="500" />
+  <img src="https://github.com/kiyoshiabyan/Lobby-Page/blob/main/https___github.com_kiyoshiabyan_20250705_205025_0000.png" alt="Device" width="500" />
 </div>
 
 ---
@@ -45,7 +48,7 @@ href="mailto:kiyoshiabyan11@gmail.com">Kirim Email (Gmail)</a>
 <strong>❤️Barakallahu Fiikum❤️</strong>
 </p>
 
-<p align="right">
+# <p align="right">
 <em>Made with - Bi'idznillah</em><br/>
 <em><strong>©2025<strong></em><br/>
   
